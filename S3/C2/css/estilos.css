@@ -1,0 +1,43 @@
+body{
+  background: #2FA4FF;
+}
+
+}
+header {
+  background: #F7FFE5;
+  text-align: center;
+}
+
+li {
+  display: flex;
+}
+.box-main{
+  background: #F7FFE5;
+  width: 500px;
+  height: 400px;
+}
+/*para las clases de valores absolutos*/
+
+.a-1 {
+  background:#F7FFE5;
+  font-size: 15px;
+  width: 400px;
+  height: 400px;
+
+}
+
+.a-2 {
+  background:#F7FFE5;
+  font-size: 2.8em;
+  margin: 10px;
+  width: 20cm;
+  height: 15cm;
+
+}
+
+.r-1 {
+  background:#F7FFE5;
+  width: 100%;
+  height: 200px;
+  margin-top: 10px;
+}

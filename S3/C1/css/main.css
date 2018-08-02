@@ -1,0 +1,46 @@
+/*h1{
+  color:blue;
+  font-size:20px;
+  font-family: Vedana;
+}*/
+/*selectores*/
+/** {
+  font-family: verdana;
+}*/
+
+/*body {
+  font-family: verdana;
+  background: blue;
+  color: white;
+  text-align: center;
+}*/
+
+header{
+  background: cornflowerblue;
+  color: white;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+header h1{
+  text-transform: uppercase;
+}
+/*uso de class*/
+.portada {
+  text-align: center;
+  background: gainsboro;
+}
+.portada h2{
+  text-transform: uppercase;
+}
+/*uso del ID*/
+#main-footer {
+  text-align: center;
+  font-weght: bold;
+
+}
+.parrafo {
+  background: DARKSALMON;
+  text-align: center;
+  font-style: Verdana ;
+}
