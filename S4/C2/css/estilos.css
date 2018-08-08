@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie|Damion|Great+Vibes|Lobster|Pacifico');
+
+/*1. fuentes*/
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  font-family: 'Damion', cursive;
+  font-style: italic;
+}
+h2 {
+  font-family: 'Cookie', cursive;
+}
+post1 h2{
+  font-family: 'Great Vibes', cursive;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+
+}
